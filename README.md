@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vivlol
+- 👋 Hi, I’m Aleksandr
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning html, css and as well as photoshop and illustrator
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on an ongoing basis
 - 📫 How to reach me: aleksandrpiletskii@gmail.com
